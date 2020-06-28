@@ -1,6 +1,6 @@
 {
   "name": "@crossfoam/utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utilities for the crossfoam modules",
   "main": "dst/index.js",
   "scripts": {
